@@ -1,11 +1,16 @@
 _repo: Deadly-decoy_72119
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72119-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, Clyde
     gutenberg_agent_id: '56548'
     url: http://www.gutenberg.org/2009/agents/56548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72119#Deadly-decoy
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72119'
